@@ -9,11 +9,11 @@
 # Note: for readability the identifiers for persons are in the prefix of the document and contain describing labels. 
 # It is probably better to use full URL's to link to individual persons (if the RMS supports this of course).
 
-<https://memorix.io/NL-SAA/564021ce-aabb-0011-2233-f778c6c06689#> a rico:Record ;
+<https://memorix.io/NL-UtHUA/F6C0F0E4-0850-E53E-E043-4701000A1872#> a rico:Record ;
   rico:ContentType <http://vocab.getty.edu/aat/300027418> ;
   rico:heldBy <https://hetutrechtsarchief.nl> ;
   edm:isShownAt 
-    <http://www.hetutrechtsarchief.nl/collectie/archiefbank/archieftoegangen/zoekresultaat?mivast=39&amp;miadt=39&amp;miaet=54&amp;micode=463-737-01&amp;minr=29574995&amp;miview=ldt> ,
+    <https://hetutrechtsarchief.nl/collectie/F6C0F0E40850E53EE0434701000A1872> ,
     <https://www.openarch.nl/hua:F6C0F0E4-0850-E53E-E043-4701000A1872> ,
     <https://www.wiewaswie.nl/nl/detail/47770315> ;
   rico:resultsFrom :huwelijk ;
@@ -42,7 +42,7 @@
      a rico:Place ;
      rico:hasPlaceName <https://www.geonames.org/2745912/utrecht.html>
    ] ;
-   rico:resultsIn <https://memorix.io/NL-UtHUA/564021ce-aabb-0011-2233-f778c6c06689#> .
+   rico:resultsIn <https://memorix.io/NL-UtHUA/F6C0F0E4-0850-E53E-E043-4701000A1872#> .
 
 :bruid a rico:Person ;
   rico:hasAgentName [
